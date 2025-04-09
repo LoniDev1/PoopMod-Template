@@ -1,5 +1,6 @@
 package de.lonidev;
 
+import de.lonidev.block.ModBlocks;
 import de.lonidev.item.Moditems;
 import net.fabricmc.api.ModInitializer;
 
@@ -21,6 +22,7 @@ public class PoopModPoopAddon implements ModInitializer {
 
 		//Register your Items...
 		Moditems.registerModItems();
+		ModBlocks.registerBlocks();
 
 
 		//That's how you add Items to the existing Poopmod Item Group

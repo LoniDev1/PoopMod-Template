@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "poop-mod-poop-addon:stinky_poop_ingot"
+    }
+  },
+  "result": {
+    "item": "poop-mod-poop-addon:stinky_poop_block",
+    "count": 1
+  }
+}

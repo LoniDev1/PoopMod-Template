@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "poopmod:block/stinky_poop_ore"
+    "all": "poop-mod-poop-addon:block/stinky_poop_ore"
   }
 }

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "poop-mod-poop-addon:raw_stinky_poop_ore"
+  },
+  "result": "poop-mod-poop-addon:stinky_poop_ingot",
+  "experience": 20,
+  "cookingtime": 50
+}

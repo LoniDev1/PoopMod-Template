@@ -1,7 +1,7 @@
 {
   "variants" : {
     "": {
-      "model": "poopmod:block/stinky_poop_ore"
+      "model": "poop-mod-poop-addon:block/stinky_poop_ore"
     }
   }
 }

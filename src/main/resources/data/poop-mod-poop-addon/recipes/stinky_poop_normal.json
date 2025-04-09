@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#G#",
+    "G G",
+    "#G#"
+  ],
+  "key": {
+    "#": {
+      "item": "poop-mod-poop-addon:stinky_poop_ore"
+    },
+    "G": {
+      "item": "poop-mod-poop-addon:stinky_poop_ingot"
+    }
+  },
+  "result": {
+    "item": "poop-mod-poop-addon:stinky_poop",
+    "count": 2
+  }
+}

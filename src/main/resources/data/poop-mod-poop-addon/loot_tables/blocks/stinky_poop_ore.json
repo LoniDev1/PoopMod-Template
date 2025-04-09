@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "poop-mod-poop-addon:raw_stinky_poop_ore"
+        }
+      ]
+    }
+  ]
+}

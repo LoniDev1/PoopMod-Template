@@ -1,4 +1,7 @@
 {
   "item.poop-mod-poop-addon.stinky_poop": "Stinky Poop",
-  "item.poop-mod-poop-addon.stinky_poop_ore": "Stinky Poop Ore"
+  "item.poop-mod-poop-addon.raw_stinky_poop_ore": "Raw Stinky Poop Ore",
+  "item.poop-mod-poop-addon.stinky_poop_ingot": "Stinky Poop Ingot",
+  "block.poop-mod-poop-addon.stinky_poop_ore": "Stinky Poop Ore",
+  "block.poop-mod-poop-addon.stinky_poop_block": "Stinky Poop Block"
 }

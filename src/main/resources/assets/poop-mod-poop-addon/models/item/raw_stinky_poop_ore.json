@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "poop-mod-poop-addon:item/raw_stinky_poop_ore"
+  }
+}
