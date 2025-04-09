@@ -13,6 +13,9 @@ import net.minecraft.util.Identifier;
 
 public class Moditems {
     public static final Item STINKYPOOP =  registerItem("stinky_poop", new Item(new FabricItemSettings()));
+    public static final Item RAWSTINKYPOOPORE =  registerItem("raw_stinky_poop_ore", new Item(new FabricItemSettings()));
+    public static final Item STINKYPOOPINGOT =  registerItem("stinky_poop_ingot", new Item(new FabricItemSettings()));
+
 
     private static void addItemsToIngedientTabItemGroup(FabricItemGroupEntries entries) {
     }
