@@ -1,0 +1,33 @@
+License for Poopmod
+
+✅ You can:
+
+    Use this mod freely.
+
+    Create and share addons that build on the original mod.
+
+    Use the code as a reference to create your own addons.
+
+❌ You are prohibited from:
+
+    Uploading or distributing the mod in its original or modified form (only addons are allowed).
+
+    Modifying or replacing the original textures.
+
+    Editing the original code directly—use it only as a reference for addons.
+
+    Using this mod or any of its assets for commercial purposes.
+
+    Using the original textures from this mod anywhere else, including in other projects, without permission.
+
+    Redistributing a version that would overwrite an existing version of the mod (e.g., if the original page already has a Fabric 1.20.1 version, you may not upload another Fabric 1.20.1 version, but you may distribute a Forge 1.20.1 version as long as it does not overlap with existing versions).
+
+!!! If you create an addon based on this mod, you must clearly mark it as a non-original version. It should be clearly stated that it is an addon and not the original product.
+
+!!! Any redistribution or addon must include the following text in the description:
+--Original Product from Lonidev
+--Original mod is under the link: [https://modrinth.com/mod/poop-mod](https://modrinth.com/mod/poop-mod)
+💡 Recommended License: Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND)
+
+--------By using this mod, you accept these terms. If you don’t agree, you’re not allowed to use or distribute it.--------
+
